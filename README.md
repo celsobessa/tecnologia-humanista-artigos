@@ -1,6 +1,6 @@
 # Artigos Tecnologia Humanista (Humanist Technology pt-br Articles)
 
-> Para português, leia o artigo [README.md](README.md)
+> Para português, leia o artigo [LEIAME.md](LEIAME.md)
 
 [TODO]
 ## Contributing
