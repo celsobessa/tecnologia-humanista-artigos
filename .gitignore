@@ -97,6 +97,9 @@ Thumbs.db
 *.tar
 *.zip
 
+# ignore copy-to-site.sh script
+copy-to-site.sh
+
 # -------------------------
 # BEGIN Whitelisted Files
 # -------------------------
