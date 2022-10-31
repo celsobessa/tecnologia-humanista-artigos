@@ -1,6 +1,6 @@
 # Artigos Tecnologia Humanista
 
-> for english, read the [README.md] article.
+> for english, read the [README.md](README.md) article.
 [AFAZER]
 
 ## Contribuindo
