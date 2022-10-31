@@ -1,6 +1,9 @@
 # Como contribuir
 
-A forma mais rápida e fácil de contribuir é sugerindo ou escrevendo um artigo utilizando a função "issues" (ocorrências) do Github. Toda issues nova é criada com um modelo de artigo.
+A forma mais rápida e fácil de contribuir é sugerindo conteúdo ou escrevendo um artigo utilizando a função "issues" (ocorrências) do Github:
+
+- Ao clicar em "New Issue", você verá a opção: "Sugestão de Conteúdo. Modelo para sugestão de conteúdo no Tecnologia Humanista em português. "
+- Clique em "Get Started" e escreva o artigo seguindo as orientações.
 
 A segunda forma de contribuir é copiar o repositório, escrever os artigos e enviar uma solicitação de "pull request".
 
