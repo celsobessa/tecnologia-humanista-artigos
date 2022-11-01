@@ -18,6 +18,6 @@ Um interessante artigo do Center for Democracy and Technology sobre transparênc
 > 
 > UX for Algorithmic Transparency:
 > 
-> (https://medium.com/@carolinesinders/ux-for-algorithmic-transparency-afb52621c454)
+> [https://medium.com/@carolinesinders/ux-for-algorithmic-transparency-afb52621c454]
 >
 > [This is Transparency to Me – Research Prototypes](https://cdt.org/insights/this-is-transparency-to-me-research-prototypes/)
