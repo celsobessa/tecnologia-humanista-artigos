@@ -18,7 +18,6 @@ Um interessante artigo do CDT sobre transparência algorítmica
 > 
 > UX for Algorithmic Transparency:
 > 
-> [https://medium.com/@carolinesinders/ux-for-algorithmic-transparency-afb52621c454]
+> (https://medium.com/@carolinesinders/ux-for-algorithmic-transparency-afb52621c454)
 >
-> [https://cdt.org/insights/this-is-transparency-to-me-research-prototypes/](This is Transparency to Me – Research Prototypes)
-
+> [This is Transparency to Me – Research Prototypes](https://cdt.org/insights/this-is-transparency-to-me-research-prototypes/)
