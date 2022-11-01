@@ -1,6 +1,6 @@
 ---
 title: O que é transparência. Estudo do Center for Democracy and Technology
-description: Resumo do artigo em até 240 caracteres. (obrigatório)
+description: Um interessante artigo do Center for Democracy and Technology sobre transparência algorítmica.
 sourceTitle: This is Transparency to Me - User Insights into Recommendation Algorithm Reporting
 sourceUrl: https://cdt.org/insights/this-is-transparency-to-me-user-insights-into-recommendation-algorithm-reporting/
 sourceLanguageText: Inglês
@@ -12,7 +12,7 @@ tags:
   - algoritmo
   - CDT
 ---
-Um interessante artigo do CDT sobre transparência algorítmica
+Um interessante artigo do Center for Democracy and Technology sobre transparência algorítmica (em inglês). 
 
 > We present findings in two parts: (1) guidelines about what information should be included in recommendation algorithm transparency reports, and how it should be presented; and (2) initial suggestions, in the form of prototypes, about more engaging and interactive ways of presenting such information to users, with an evaluation of their strengths and weaknesses.
 > 
