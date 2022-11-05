@@ -3,7 +3,7 @@ title: PenhaS, um app para informar e agir contra a violência doméstica
 description: PenhaS, um app para informar, criar redes de segurança e agir contra a violência doméstica.
 sourceTitle: AzMina
 sourceUrl: [https://www.ghostery.com/blog/never-consent-by-ghostery-new-feature-removing-annoying-cookie-pop-ups-automates-interaction-with-consent-dialogs/](https://azmina.com.br/projetos/penhas/)
-sourceLanguageText: Portugu
+sourceLanguageText: Português
 
 date: 2022-09-27
 tags:
@@ -14,7 +14,7 @@ tags:
   - Violência Doméstica
 ---
 
-O Penhas é um aplicativo iOS e Android criado pela Revista AzMina para ajudar mulheres vítimas de violência doméstica e violência.
+O PenhaS é um aplicativo iOS e Android criado pela Revista AzMina para ajudar mulheres vítimas de violência doméstica e violência.
 
 _"O combate à violência contra a mulher [...]] começa com a conscientização dos nossos direitos e da violência sofrida [pela mulher], passa pela formação de uma rede de apoio que pode ajudar quando necessário e leva a uma ação que acabe ao relacionamento abusivo."_
 
