@@ -20,4 +20,4 @@ _"A Internet e seu uso para tarefas de inteligência nas mãos do Estado abre as
 
 _Graças à reportagem “Os Arquivos Secretos” da Semana, sabemos que o Exército Nacional aproveitou as informações disponíveis na internet e nas redes sociais para perfilar 130 pessoas, entre jornalistas, funcionários públicos e defensores de direitos humanos. Suas postagens de mídia social (Facebook, Twitter e Instagram) e os metadados de cada postagem (sobre de onde uma foto é postada) foram usados ​​para responder a uma pergunta aparentemente simples: quem é essa pessoa? Eles também possibilitaram estabelecer quem eram seus contatos e seguidores mais próximos e quais eram seus tópicos de conversa e interesse."_
 
-* Leia o artigo de Lucía Camacho Gutiérrez e Daniel Ospina Celis, em espanhol, em El Tiempo:(https://blogs.eltiempo.com/no-hay-derecho/2022/09/21/entre-la-multitud-y-el-perfilamiento/)
+* Leia o artigo de Lucía Camacho Gutiérrez e Daniel Ospina Celis, em espanhol, em El Tiempo: (https://blogs.eltiempo.com/no-hay-derecho/2022/09/21/entre-la-multitud-y-el-perfilamiento/)
