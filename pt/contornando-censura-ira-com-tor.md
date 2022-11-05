@@ -16,7 +16,7 @@ tags:
 
 Se por acaso você estiver lendo este artigo enquanto estiver no Irã, aqui está a tradução de algumas instruções do Projeto Tor que podem ajudá-la/o, publicada originalmente em inglês no fórum oficial.
 
-*Novo guia do usuário: contornando a censura no Irã com o Tor!*
+**Novo guia do usuário: contornando a censura no Irã com o Tor!**
 
 "Verifique a versão do navegador Tor e atualize para a mais recente
 
