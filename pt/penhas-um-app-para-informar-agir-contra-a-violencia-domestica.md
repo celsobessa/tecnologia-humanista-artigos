@@ -1,6 +1,9 @@
 ---
 title: PenhaS, um app para informar e agir contra a violência doméstica
 description: PenhaS, um app para informar, criar redes de segurança e agir contra a violência doméstica.
+sourceTitle: AzMina
+sourceUrl: [https://www.ghostery.com/blog/never-consent-by-ghostery-new-feature-removing-annoying-cookie-pop-ups-automates-interaction-with-consent-dialogs/](https://azmina.com.br/projetos/penhas/)
+sourceLanguageText: Portugu
 
 date: 2022-09-27
 tags:
