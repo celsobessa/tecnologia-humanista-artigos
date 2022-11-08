@@ -5,8 +5,8 @@ sourceTitle: Philip Zimmermann, Why I Wrote PGP
 sourceUrl: https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html
 sourceLanguageText: Inglês
 
-date: 2022-mes-dia
-tags: 
+date: 2022-11-08
+tags:
   - notícias
   - privacidade
   - tecnologia
