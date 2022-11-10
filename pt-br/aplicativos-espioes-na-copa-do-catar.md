@@ -1,6 +1,6 @@
 ---
 title: Aplicativos espiões na Copa do Catar
-description: Todos que viajarem para o Catar durante a Copa do Mundo de futebol terão que baixar aplicativos espiões.
+description: Todos que viajarem para o Catar durante a Copa do Mundo de futebol terão que baixar dois aplicativos espiões.
 sourceTitle: Qatar Spyware
 sourceUrl: https://www.schneier.com/blog/archives/2022/10/qatar-spyware.html
 sourceLanguageText: Inglês
