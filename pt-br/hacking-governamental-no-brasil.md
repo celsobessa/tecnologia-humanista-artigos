@@ -1,7 +1,7 @@
 ---
 title: Hacking governamental no Brasil
-description: Estudo sobre uso de ferramentas de hacking por autoridades brasileiras conclui que as contratações são mais profundas do que se supunha, oferecendo risco aos direitos humanos no Brasil.
-sourceTitle: Mercadores da Insegurança: conjuntura e riscos do hacking governamental no Brasil
+description: Estudo sobre uso de ferramentas de hacking por autoridades brasileiras conclui que as contratações são mais profundas do que se supunha, oferecendo risco aos direitos humanos no Brasill.
+sourceTitle: Mercadores da Insegurança - conjuntura e riscos do hacking governamental no Brasil
 sourceUrl: https://ip.rec.br/publicacoes/mercadores-da-inseguranca-conjuntura-e-riscos-do-hacking-governamental-no-brasil/
 sourceLanguageText: Português
 
