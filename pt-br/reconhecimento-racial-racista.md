@@ -1,4 +1,4 @@
-
+---
 title: Reconhecimento facial com potencial racista, em São Paulo. 
 description: A prefeitura de São Paulo pretende instalar câmeras de vigilância com reconhecimento facial cujos algoritmos são capazes de reconhecer a cor das pessoas. 
 sourceTitle: Nota de repúdio à Plataforma de Videomonitoramento Smart Sampa
