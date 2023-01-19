@@ -5,7 +5,7 @@ sourceTitle: The Hacker News
 sourceUrl: https://thehackernews.com/2022/11/elon-musk-confirms-twitter-20-will.html
 sourceLanguageText: Inglês
 
-date: 2022-mes-dia
+date: 2022-11-28
 tags: 
   - notícias
   - twitter
