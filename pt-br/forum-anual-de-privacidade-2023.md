@@ -5,7 +5,7 @@ sourceTitle: Annual Orivacy Forum
 sourceUrl: https://privacyforum.eu/
 sourceLanguageText: inglês
 
-date: 2022-mes-dia
+date: 2023-01-27
 tags: 
   - notícias
   - evento
