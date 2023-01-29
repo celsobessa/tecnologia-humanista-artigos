@@ -1,6 +1,6 @@
 ---
 title: Conferência Internacional sobre Inteligência Artificial e Direito (ICAIL)
-description: Vem aí a International Conference on Artificial Intelligence and Law -ICAIL 2023. 
+description: Vem aí a International Conference on Artificial Intelligence and Law -ICAIL 2023. É possível inscrever artigos e demonstrações até dia 12 de fevereiro!
 sourceTitle: ICAIL 2023
 sourceUrl: https://icail2023.di.uminho.pt/
 sourceLanguageText: Inglês
@@ -23,7 +23,7 @@ Os tópicos podem incluir assuntos variados, como por exemplo:
 
 - IA explicável para prática jurídica, dados e análise de texto. 
 
-
+A data limite para envio de papers e demonstrações é 12/02/2023!
 
 
 * Leia mais: [https://icail2023.di.uminho.pt/](https://icail2023.di.uminho.pt/)
