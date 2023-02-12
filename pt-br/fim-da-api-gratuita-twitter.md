@@ -1,7 +1,7 @@
 ---
-title: Fim da API gratuita do Twitter causa apreensão entre pesquisadores.
+title: Pesquisadores alertam sobre "apagar das luzes" de dados do Twitter.
 description: Elon Musk anunciou que o acesso à API do Twitter passará a ser cobrado. 
-sourceTitle: Pesquisadores alertam sobre "apagar das luzes" de dados do Twitter.
+sourceTitle: Núcleo
 sourceUrl: https://nucleo.jor.br/curtas/2023-02-06-pesquisadores-alertam-riscos-em-fim-da-api-gratis-do-twitter/
 sourceLanguageText: Português
 
@@ -11,7 +11,7 @@ tags:
   - twitter
   - API
   - Elon Musk
-  - tag 5
+  - pesquisa
 ---
 
 "Organizações e institutos de pesquisa na área de direitos digitais publicaram uma carta nesta segunda-feira (6.fev.2023) em que pedem que o Twitter garanta que a API continue acessível para acadêmicos, jornalistas e membros da sociedade civil." 
