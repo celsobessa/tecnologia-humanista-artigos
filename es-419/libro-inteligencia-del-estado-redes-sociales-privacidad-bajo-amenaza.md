@@ -1,7 +1,7 @@
 ---
-title: Libro Inteligencia del Estado en Internet y Redes Sociales: Privacidad Bajo la Amenaza
+title: "Libro Inteligencia del Estado en Internet y Redes Sociales: Privacidad Bajo la Amenaza."
 description: En el libro, Lucía Camacho Gutiérrez, Daniel Ospina Celis y Juan Carlos Upegui Mejía se enfocan en las capacidades estatales de inteligencia de fuentes abiertas (OSINT) en Colombia y su legalidad.
-sourceTitle: Publicación - Inteligencia del Estado en Internet y Redes Sociales: Privacidad Bajo la Amenaza
+sourceTitle: "Publicación - Inteligencia del Estado en Internet y Redes Sociales: Privacidad Bajo la Amenaza"
 sourceUrl: https://www.dejusticia.org/publication/inteligencia-estatal-en-internet-y-redes-sociales-la-privacidad-bajo-amenaza/
 sourceLanguageText: Español
 
